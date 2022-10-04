@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alan!</h1>
-<h3 align="center">A passionate fullstack developer (with more love to front-end <3) from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Alan Vargas!</h1>
+<h3 align="center">A passionate JavaScript fullstack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alannv&label=Profile%20views&color=0e75b6&style=flat" alt="alannv" /> </p>
 
